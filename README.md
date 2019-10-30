@@ -1,3 +1,3 @@
 ### 论文笔记
-#### 图像分割
+#### 语义分割
 [Learning Deconvolution Network for Semantic Segmentation]() ICCV 2015
