@@ -8,4 +8,6 @@
 
 2. FCN中反卷积还原的图片结果太粗糙，FCN中的deconvolution结果尺寸为16 X 16，这个尺寸的输出放大到原输入图片尺寸会丢失很多信息。  
 
-<div align="center"> ![][https://github.com/ZHAOYANANGOGO/papers/blob/master/images/img1.jpg]</div>
+<div align=center>
+![](https://github.com/ZHAOYANANGOGO/papers/blob/master/images/img1.jpg)
+</div>
